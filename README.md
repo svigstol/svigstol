@@ -1,5 +1,5 @@
 ### I did a thing! Exuberance! 🙌 
 
-Yet another code n00b trying to get their feet wet. Someday I'll figure it all out! <br>
+Yet another programming n00b figuring things out one day at a time 💪 😤 <br>
 I am currently learning: Python 3
 
