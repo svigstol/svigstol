@@ -17,7 +17,7 @@ There will be something <s>vaguely interesting</s> really cool here soon. Promis
 - Ruby
 - C
 
-### Have Some Neat Stats
+<!--### Have Some Neat Stats-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
