@@ -1,7 +1,7 @@
 ## I did a thing! Exuberance! :smile_cat:
 
 ### About Me
-Since the late 90's, it has been my childhood dream to become a software developer. Now, I'm finally on my way to making it happen. Upward and onward! :muscle: :triumph:<br>
+Ever since my parents brought home our first family PC way back in the year 2000, it has been my dream to become a computer programmer. Now, I'm finally on my way to making it happen. Upward and onward! :muscle: :triumph:<br>
 
 There will be something <s>vaguely interesting</s> really cool here soon. Promise.
 
