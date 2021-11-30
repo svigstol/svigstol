@@ -10,6 +10,7 @@ There will be something <s>vaguely interesting</s> really cool here soon. Promis
 - [x] HTML
 - [ ] CSS
 - [ ] Python 3
+- [ ] Java
 
 ### On Deck
 - JavaScript
@@ -24,4 +25,3 @@ There will be something <s>vaguely interesting</s> really cool here soon. Promis
 ### Books I'm Reading
 - [*Learn Python 3 The Hard Way*](https://learnpythonthehardway.org/) by Zed Shaw
 - [*Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made*](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) by Jason Schreier
-- [*The Gold Mine: A Novel of Lean Turnaround*](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=127) by Freddy and Michael Ballé
